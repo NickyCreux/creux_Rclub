@@ -1,11 +1,13 @@
 ---
-title: "Untitled"
+title: "Let's Have A Title"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+We're also going to try knitting this.
 
 ## R Markdown
 
@@ -27,12 +29,12 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-###R-Club Homework
+### R-Club Homework
 
 I wonder if I can link this to [GitHub](www.github.com)?  
 I cannot figure out how to do the referencing of images, **pleas help!** I think I can do the in line image insertion ![Smiley face](https://upload.wikimedia.org/wikipedia/commons/8/88/Yellow_Happy.jpg).
 
-#####My three South African Heros are
+##### My three South African Heros are
 * _Nelson Mandela_
  >Education is the most powerful weapon which you can use to change the world.  
 * _Desmond Tutu_
