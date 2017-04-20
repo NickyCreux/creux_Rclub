@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: "Untitled"
+=======
+title: "Let's Have A Title"
+>>>>>>> bafeb8626aec8af621a830a9a47d27a98ec0df0f
 output: 
   html_document: 
     keep_md: yes
@@ -9,6 +13,11 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<<<<<<< HEAD
+=======
+We're also going to try knitting this.
+
+>>>>>>> bafeb8626aec8af621a830a9a47d27a98ec0df0f
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
@@ -34,12 +43,21 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 I wonder if I can link this to [GitHub](www.github.com)?  
 I cannot figure out how to do the referencing of images, **pleas help!** I think I can do the in line image insertion ![Smiley face](https://upload.wikimedia.org/wikipedia/commons/8/88/Yellow_Happy.jpg).
 
+<<<<<<< HEAD
 ##### My three South African heros are
+=======
+##### My three South African Heros are
+>>>>>>> bafeb8626aec8af621a830a9a47d27a98ec0df0f
 * _Nelson Mandela_
  >Education is the most powerful weapon which you can use to change the world.  
 * _Desmond Tutu_
  >Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.  
+<<<<<<< HEAD
 * _Helen Suzman_  
   >I am provocative, and I admit this. It isn't as if I'm only on the receiving end, a poor, frail little creature. I can be thoroughly nasty when I get going, and I don't pull my punches.
+=======
+* _Helen Suzman_  
+ > I am provocative, and I admit this. It isn't as if I'm only on the receiving end, a poor, frail little creature. I can be thoroughly nasty when I get going, and I don't pull my punches.
+>>>>>>> bafeb8626aec8af621a830a9a47d27a98ec0df0f
 
 There is _**very**_ likely more than one error in this!
